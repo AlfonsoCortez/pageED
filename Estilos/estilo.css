@@ -1,4 +1,4 @@
-/*Nomenclatura */
+    /*Nomenclatura */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700&display=swap');
 * {
@@ -275,7 +275,7 @@ i {
     left: 45%;
     bottom: 30px;
     position: absolute;
-}
+    /* }
 
 .center3 {
     border: 1px solid #000;
@@ -283,4 +283,4 @@ i {
 
 .center3 img {
     border: 1px solid #000;
-}
+} */
