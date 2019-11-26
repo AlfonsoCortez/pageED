@@ -1,2 +1,2 @@
 # pageED
-wenas
+Pagina sobre la transformadas de Laplace.
